@@ -1,1 +1,1 @@
-![Project Cover](./images/capa.png)
+![Project Cover](./images/capa.jpeg)
